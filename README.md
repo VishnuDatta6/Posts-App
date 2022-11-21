@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 **To install react-router-dom**
-Enter the command "npm install react-router-dom"
+Enter the command "npm install react"
 
 **To install firebase**
 Enter the command "npm install firebase"
